@@ -41,11 +41,6 @@ Integrate a checkout process using one of the following libraries/tools:
 - Implement the backend using Express.js and Node.js.
 - Ensure proper API endpoints to serve both the public feed and the blog creation processes.
 
-### Deployment:
-- Host the application on a publicly accessible URL via Vercel.
-- Version control the code in a GitHub repository.
-- Include a comprehensive `README.md` file with setup instructions for running the project locally.
-
 ## Getting Started
 
 ### Prerequisites
