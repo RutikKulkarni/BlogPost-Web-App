@@ -46,31 +46,6 @@ Integrate a checkout process using one of the following libraries/tools:
 - Version control the code in a GitHub repository.
 - Include a comprehensive `README.md` file with setup instructions for running the project locally.
 
-## Evaluation Criteria
-1. **Code Quality and Structure**:
-   - Clean, modular code with appropriate use of folders, components, and services.
-   - Proper comments and documentation throughout the codebase.
-
-2. **Frontend Functionality**:
-   - Blog feed filters and displays posts correctly based on geo-location.
-   - User-friendly interface for both the public blog site and the blog creation tool.
-
-3. **Backend Functionality**:
-   - Secure authentication for blog creators (using JWT, sessions, etc.).
-   - Appropriate use of MongoDB for storing blog posts and user data.
-   - Implement IP-based geo-location detection and association for blogs.
-
-4. **Blog Editor**:
-   - Effective utilization of the block editor for rich text, images, and videos.
-   - Organized content blocks with an intuitive user interface.
-
-5. **Payment Integration**:
-   - Successful implementation of the checkout process using one of the suggested payment libraries or SaaS tools.
-
-6. **Deployment**:
-   - Successful deployment of both the frontend and backend to Vercel.
-   - Provide a working deployment link and an accessible GitHub repository with a comprehensive README.
-
 ## Getting Started
 
 ### Prerequisites
